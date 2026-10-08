@@ -1,3 +1,6 @@
 {
-  "textos": {}
+  "textos": {
+    "drive_buscar_en": "Prueba remota · %1$s",
+    "inicio_titulo": "Portada"
+  }
 }
