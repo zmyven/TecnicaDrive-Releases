@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0-alpha",
-  "versionCode": 1010,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.4.0-alpha-1010.apk",
-  "notas": "Nueva sección Inicio, en la app y en la web.\n\nNovedades\n- Inicio es la primera pantalla después de entrar. Muestra los últimos archivos de Mi Nube y las novedades de la Biblioteca, con miniaturas.\n- Para Mi Nube, Inicio indica cuántos archivos tenés de cada formato (imágenes, PDF, documentos, planillas…) y cuánto ocupan. Tocando un formato se ven solo esos archivos.\n- En la app, Inicio es el primer botón de la barra de abajo. En la web, la primera opción del menú lateral.\n- Tocar un archivo abre la vista previa. Si no tiene vista previa, la app abre la carpeta donde está y la web lo descarga.\n\nInstalación\n- Si ya tenés la 0.3.0, la app te avisa sola y se actualiza encima."
+  "version": "0.5.0-alpha",
+  "versionCode": 1012,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.5.0-alpha-1012.apk",
+  "notas": "App más liviana y textos que se actualizan solos.\n\nNovedades\n- El APK pasa de 17 MB a menos de 6 MB: las actualizaciones bajan mucho más rápido.\n- Los textos de la app se pueden corregir o cambiar sin actualizarla: al abrirse, la app trae los textos nuevos y los muestra al instante.\n\nPara probar\n- Como el APK ahora se arma distinto (más compacto), conviene revisar lo principal: entrar, abrir carpetas, buscar, ver vista previa, subir y descargar."
 }
