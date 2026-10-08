@@ -1,6 +1,6 @@
 {
   "version": "0.3.0-alpha",
-  "versionCode": 1007,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.3.0-alpha-1007.apk",
+  "versionCode": 1008,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.3.0-alpha-1008.apk",
   "notas": "La app se actualiza sola.\n\nNovedades\n- Al abrirse, la app busca si hay una versión nueva. Si la hay, la ofrece con «Actualizar» y la instala encima, sin desinstalar nada.\n- En «Acerca de» se puede buscar a mano con «Buscar actualizaciones», y se ve el número de compilación.\n- La primera vez Android pide permitir que TécnicaDrive instale apps: hay que activar «Permitir de esta fuente» y volver.\n\nInstalación del APK\n- Esta es la última vez que hay que desinstalar la versión anterior. Desde esta versión, todas usan la misma firma y se actualizan solas."
 }
