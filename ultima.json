@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0-alpha",
-  "versionCode": 1008,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.3.0-alpha-1008.apk",
-  "notas": "La app se actualiza sola.\n\nNovedades\n- Al abrirse, la app busca si hay una versión nueva. Si la hay, la ofrece con «Actualizar» y la instala encima, sin desinstalar nada.\n- En «Acerca de» se puede buscar a mano con «Buscar actualizaciones», y se ve el número de compilación.\n- La primera vez Android pide permitir que TécnicaDrive instale apps: hay que activar «Permitir de esta fuente» y volver.\n\nInstalación del APK\n- Esta es la última vez que hay que desinstalar la versión anterior. Desde esta versión, todas usan la misma firma y se actualizan solas."
+  "version": "0.4.0-alpha",
+  "versionCode": 1010,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.4.0-alpha-1010.apk",
+  "notas": "Nueva sección Inicio, en la app y en la web.\n\nNovedades\n- Inicio es la primera pantalla después de entrar. Muestra los últimos archivos de Mi Nube y las novedades de la Biblioteca, con miniaturas.\n- Para Mi Nube, Inicio indica cuántos archivos tenés de cada formato (imágenes, PDF, documentos, planillas…) y cuánto ocupan. Tocando un formato se ven solo esos archivos.\n- En la app, Inicio es el primer botón de la barra de abajo. En la web, la primera opción del menú lateral.\n- Tocar un archivo abre la vista previa. Si no tiene vista previa, la app abre la carpeta donde está y la web lo descarga.\n\nInstalación\n- Si ya tenés la 0.3.0, la app te avisa sola y se actualiza encima."
 }
