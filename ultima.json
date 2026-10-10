@@ -1,6 +1,6 @@
 {
-  "version": "0.5.0-alpha",
-  "versionCode": 1012,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.5.0-alpha-1012.apk",
-  "notas": "App más liviana y textos que se actualizan solos.\n\nNovedades\n- El APK pasa de 17 MB a menos de 6 MB: las actualizaciones bajan mucho más rápido.\n- Los textos de la app se pueden corregir o cambiar sin actualizarla: al abrirse, la app trae los textos nuevos y los muestra al instante.\n\nPara probar\n- Como el APK ahora se arma distinto (más compacto), conviene revisar lo principal: entrar, abrir carpetas, buscar, ver vista previa, subir y descargar."
+  "version": "0.6.0-alpha",
+  "versionCode": 1014,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.6.0-alpha-1014.apk",
+  "notas": "La app entra por internet desde cualquier lugar y se puede elegir el tema.\n\nNovedades\n- La app ahora entra primero por el servidor de TécnicaDrive (por internet, con conexión cifrada), así funciona igual dentro y fuera de la escuela. Si el servidor no responde y estás en la red de la escuela, entra directo al NAS como antes.\n- Tema claro, oscuro o automático: se elige en Acerca de la app y queda guardado.\n- Si el servidor rechaza el ingreso (contraseña incorrecta, cuenta sin acceso, demasiados intentos), la app muestra ese mensaje en lugar de probar por otro camino.\n\nPara probar\n- Entrar con datos móviles, fuera del Wi-Fi de la escuela: tienen que verse los archivos y las miniaturas.\n- Entrar desde el Wi-Fi de la escuela.\n- Cambiar el tema en Acerca de la app, cerrar la app del todo y volver a abrirla: tiene que seguir el tema elegido.\n- Lo de siempre: abrir carpetas, buscar, ver vista previa, subir y descargar."
 }
