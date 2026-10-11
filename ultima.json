@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0-alpha",
-  "versionCode": 1018,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.8.0-alpha-1018.apk",
-  "notas": "Mejoras generales de la app.\n\nNovedades\n- Ajustes internos y mejoras de funcionamiento.\n- El título de un anuncio ahora es siempre una sola línea.\n\nPara probar\n- Lo de siempre: entrar, abrir carpetas, buscar, ver vista previa, subir y descargar.\n- Abrir Anuncios y volver."
+  "version": "0.8.1-alpha",
+  "versionCode": 1024,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.8.1-alpha-1024.apk",
+  "notas": "La app cambia de nombre: ahora se llama EEST N°2 Temperley, como la escuela.\n\nNovedades\n- Nuevo nombre en el ícono, el inicio de sesión y «Acerca de».\n- Textos más claros donde antes decía el nombre viejo.\n\nPara probar\n- Que el ícono y el inicio de sesión digan EEST N°2 Temperley.\n- Lo de siempre: entrar, abrir carpetas, buscar, ver vista previa, subir y descargar."
 }
