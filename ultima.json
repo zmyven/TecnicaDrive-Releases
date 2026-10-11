@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0-alpha",
-  "versionCode": 1014,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.6.0-alpha-1014.apk",
-  "notas": "La app entra por internet desde cualquier lugar y se puede elegir el tema.\n\nNovedades\n- La app ahora entra primero por el servidor de TécnicaDrive (por internet, con conexión cifrada), así funciona igual dentro y fuera de la escuela. Si el servidor no responde y estás en la red de la escuela, entra directo al NAS como antes.\n- Tema claro, oscuro o automático: se elige en Acerca de la app y queda guardado.\n- Si el servidor rechaza el ingreso (contraseña incorrecta, cuenta sin acceso, demasiados intentos), la app muestra ese mensaje en lugar de probar por otro camino.\n\nPara probar\n- Entrar con datos móviles, fuera del Wi-Fi de la escuela: tienen que verse los archivos y las miniaturas.\n- Entrar desde el Wi-Fi de la escuela.\n- Cambiar el tema en Acerca de la app, cerrar la app del todo y volver a abrirla: tiene que seguir el tema elegido.\n- Lo de siempre: abrir carpetas, buscar, ver vista previa, subir y descargar."
+  "version": "0.8.0-alpha",
+  "versionCode": 1018,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.8.0-alpha-1018.apk",
+  "notas": "Mejoras generales de la app.\n\nNovedades\n- Ajustes internos y mejoras de funcionamiento.\n- El título de un anuncio ahora es siempre una sola línea.\n\nPara probar\n- Lo de siempre: entrar, abrir carpetas, buscar, ver vista previa, subir y descargar.\n- Abrir Anuncios y volver."
 }
