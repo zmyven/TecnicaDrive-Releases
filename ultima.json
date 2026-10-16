@@ -1,6 +1,6 @@
 {
-  "version": "0.12.0-alpha",
-  "versionCode": 1043,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.12.0-alpha-1043.apk",
-  "notas": "Notificaciones y avisos de la escuela.\n\nNovedades\n- Notificaciones: te avisamos cuando hay un anuncio, una tarea nueva, una entrega o una tarea que vence mañana, aunque la app esté cerrada. Elegí cuáles querés en tu foto de perfil → Notificaciones.\n- Avisos de la escuela: la administración puede mandar un aviso a toda la escuela o a un curso. Se apaga aparte en Notificaciones.\n- Android 13 o más pregunta una vez si dejás que la app muestre notificaciones.\n\nPara probar\n- Entrar, aceptar el permiso y en Notificaciones tocar «Mostrar una de prueba».\n- Que otra cuenta publique un anuncio: tiene que llegar en unos segundos.\n- Lo de siempre: entrar, abrir carpetas, buscar, ver vista previa, subir y descargar."
+  "version": "0.12.1-alpha",
+  "versionCode": 1044,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.12.1-alpha-1044.apk",
+  "notas": "Seguridad: la app ya no manda nada sin cifrar.\n\nNovedades\n- Dentro de la escuela la app entra por una conexión cifrada (HTTPS) en lugar de HTTP. Antes, en una red con las mismas direcciones que la de la escuela (por ejemplo, la de tu casa), otro equipo podía ver tu contraseña.\n- Si la conexión segura de la escuela no está disponible, entra por el nombre público de siempre.\n\nPara probar\n- Entrar dentro del Wi-Fi de la escuela y fuera de él.\n- Lo de siempre: abrir carpetas, buscar, subir y descargar."
 }
