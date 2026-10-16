@@ -1,6 +1,6 @@
 {
-  "version": "0.12.1-alpha",
-  "versionCode": 1044,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.12.1-alpha-1044.apk",
-  "notas": "Seguridad: la app ya no manda nada sin cifrar.\n\nNovedades\n- Dentro de la escuela la app entra por una conexión cifrada (HTTPS) en lugar de HTTP. Antes, en una red con las mismas direcciones que la de la escuela (por ejemplo, la de tu casa), otro equipo podía ver tu contraseña.\n- Si la conexión segura de la escuela no está disponible, entra por el nombre público de siempre.\n\nPara probar\n- Entrar dentro del Wi-Fi de la escuela y fuera de él.\n- Lo de siempre: abrir carpetas, buscar, subir y descargar."
+  "version": "0.12.2-alpha",
+  "versionCode": 1045,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.12.2-alpha-1045.apk",
+  "notas": "Más seguridad para entrar por SMB.\n\nNovedades\n- Cuando la app entra directo al NAS (sin el servidor), primero comprueba que de verdad es el NAS de la escuela. En otra red, tu cuenta no sale del teléfono.\n- Los archivos por SMB viajan cifrados y firmados: nadie en el Wi-Fi puede leerlos ni cambiarlos.\n\nPara probar\n- Dentro de la escuela, con el servidor apagado: tiene que entrar por SMB igual.\n- Fuera de la escuela: entra por el nombre público como siempre.\n- Lo de siempre: abrir carpetas, buscar, subir y descargar."
 }
