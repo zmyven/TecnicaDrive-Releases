@@ -1,6 +1,6 @@
 {
-  "version": "0.12.2-alpha",
-  "versionCode": 1045,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.12.2-alpha-1045.apk",
-  "notas": "Más seguridad para entrar por SMB.\n\nNovedades\n- Cuando la app entra directo al NAS (sin el servidor), primero comprueba que de verdad es el NAS de la escuela. En otra red, tu cuenta no sale del teléfono.\n- Los archivos por SMB viajan cifrados y firmados: nadie en el Wi-Fi puede leerlos ni cambiarlos.\n\nPara probar\n- Dentro de la escuela, con el servidor apagado: tiene que entrar por SMB igual.\n- Fuera de la escuela: entra por el nombre público como siempre.\n- Lo de siempre: abrir carpetas, buscar, subir y descargar."
+  "version": "0.13.0-alpha",
+  "versionCode": 1047,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.13.0-alpha-1047.apk",
+  "notas": "Ayuda dentro de la app y aviso cuando el servidor se actualiza.\n\nNovedades\n- Ayuda: guías cortas de cada sección y recorridos que te muestran en la pantalla dónde está cada cosa. Está en tu inicial, arriba a la derecha, y en el «?» de Anuncios, Materias y Mis notas.\n- Si el servidor de la escuela se está actualizando, la app lo dice y vuelve a probar sola cada medio minuto, sin pedirte de nuevo la contraseña.\n- Si querés, la app te avisa con una notificación cuando el servidor vuelve. Te lo pregunta una sola vez; si no aceptás, no avisa.\n- Desde la Biblioteca se puede guardar una copia en Mi Nube; los docentes también pueden moverlo.\n\nPara probar\n- Con el servidor apagado y fuera de la escuela: tiene que decir que se está actualizando, contar para atrás y entrar sola cuando vuelve.\n- Aceptar el aviso: al volver el servidor tiene que llegar la notificación.\n- Abrir la Ayuda desde tu inicial y hacer el recorrido «Conocé la app».\n- Docente: en la Biblioteca, tres puntos de un archivo → «Copiar o mover a Mi Nube»."
 }
