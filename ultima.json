@@ -1,6 +1,6 @@
 {
-  "version": "0.15.0-alpha",
-  "versionCode": 1055,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.15.0-alpha-1055.apk",
-  "notas": "La app con el diseño nuevo de la escuela, igual que la web.\n\nNovedades\n- Diseño nuevo: el azul de la escuela más tranquilo, la letra de la web y las secciones como una hoja sobre el marco. La sección donde estás se ve como una pestaña en la barra de abajo.\n- Inicio ordenado en bloques: tareas, anuncios y tus archivos, cada uno con su enlace («Ver anuncios», «Ir a Mi Nube»).\n- Anuncios: los destacados van primero, con una marca amarilla, y lo nuevo desde la última vez que entraste tiene un punto azul. Quien publica puede destacar sus anuncios y eliminarlos.\n- Biblioteca: cada archivo dice quién lo subió. Solo esa persona y la administración lo pueden mover, cambiarle el nombre, etiquetarlo o eliminarlo; los demás guardan una copia.\n- Biblioteca: si subís un archivo igual a otro de la misma carpeta, la app te ofrece eliminar el que subiste o dejar los dos. Los repetidos que queden aparecen en un aviso con «Revisar».\n- Textos más claros en toda la app, y los errores ya no muestran mensajes técnicos.\n\nPara probar\n- Cambiar entre Inicio, Archivos y Anuncios: la pestaña de abajo se desliza.\n- Como docente: abrir un anuncio propio, «Destacar» y después «Quitar de destacados»; «Eliminar» tiene que pedir confirmación.\n- En la Biblioteca, los tres puntos de un archivo de otro docente: tiene que ofrecer guardar una copia, pero no mover ni eliminar."
+  "version": "0.15.1-alpha",
+  "versionCode": 1057,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.15.1-alpha-1057.apk",
+  "notas": "Menos texto de relleno.\n\nNovedades\n- La pantalla de entrada muestra solo el escudo y el formulario.\n- Acerca de, Tareas sin tareas y los recorridos de la Ayuda, sin frases que no decían nada.\n- Espacio en Mi Nube (sin conexión con el servidor): ya no muestra la ruta del servidor ni mensajes técnicos.\n\nPara probar\n- Cerrar sesión y mirar la pantalla de entrada.\n- Abrir Acerca de la app y la Ayuda."
 }
