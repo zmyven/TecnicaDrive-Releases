@@ -1,6 +1,6 @@
 {
-  "version": "0.15.1-alpha",
-  "versionCode": 1057,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.15.1-alpha-1057.apk",
-  "notas": "Menos texto de relleno.\n\nNovedades\n- La pantalla de entrada muestra solo el escudo y el formulario.\n- Acerca de, Tareas sin tareas y los recorridos de la Ayuda, sin frases que no decían nada.\n- Espacio en Mi Nube (sin conexión con el servidor): ya no muestra la ruta del servidor ni mensajes técnicos.\n\nPara probar\n- Cerrar sesión y mirar la pantalla de entrada.\n- Abrir Acerca de la app y la Ayuda."
+  "version": "0.16.0-alpha",
+  "versionCode": 1060,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.16.0-alpha-1060.apk",
+  "notas": "Comentarios sobre la app.\n\nNovedades\n- Enviar comentarios (en la hoja de tu cuenta): un error, una idea u otra cosa, para quien hace la app.\n- Tus comentarios: lo que mandaste, en qué estado está y las respuestas.\n- Cuando te responden, aparece una ventana al abrir la app.\n\nPara probar\n- Mandar un comentario desde la hoja de la cuenta.\n- Abrir «Tus comentarios» y ver que esté."
 }
