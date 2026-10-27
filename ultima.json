@@ -1,6 +1,6 @@
 {
-  "version": "0.17.0-alpha",
-  "versionCode": 1062,
-  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.17.0-alpha-1062.apk",
-  "notas": "Subir una carpeta entera.\n\nNovedades\n- «Subir carpeta» (en Nuevo): elegís una carpeta del teléfono y se sube con todas las carpetas que tiene adentro, también las vacías, igual que en tu teléfono.\n- Mientras sube ves cuántos archivos van y cuánto falta, en la pantalla y en la notificación. Podés cancelar cuando quieras: lo que ya se subió queda.\n- Al terminar, un resumen: cuántos se subieron y, si alguno no se pudo, cuál y por qué.\n- Si ya tenés una carpeta con ese nombre, la nueva se guarda como «nombre (2)», sin mezclarse ni pisar nada.\n- Sin espacio, el aviso dice lo que informa el servidor de la escuela (cuánto ocupa la carpeta y cuánto te queda).\n\nPara probar\n- En Mi Nube, tocar Nuevo → Subir carpeta, elegir una carpeta con subcarpetas y tocar «Usar esta carpeta».\n- Abrir la carpeta subida y ver que esté igual que en el teléfono."
+  "version": "0.18.0-alpha",
+  "versionCode": 1065,
+  "apk": "https://raw.githubusercontent.com/zmyven/TecnicaDrive-releases/main/apk/TecnicaDrive-0.18.0-alpha-1065.apk",
+  "notas": "La app como te guste.\n\nNovedades\n- Letra nueva, más clara y pareja. Si preferís otra, en Preferencias hay ocho para elegir; cada una se ve escrita con su propia letra.\n- Color: azul, verde o amarillo, los colores del escudo.\n- Tamaño del texto: chico, normal, grande o muy grande. Se suma al que tengas en el teléfono.\n- Listas de archivos compactas, para ver más archivos sin moverte.\n- Movimiento reducido, para que la app quede quieta.\n- El tema (claro u oscuro) ahora está en Preferencias, junto con todo lo demás.\n\nPara probar\n- Abrir tu cuenta → Preferencias y contraseña, y tocar las opciones de Apariencia: cada una se aplica en el momento.\n- Cerrar y volver a abrir la app, y ver que todo siga como lo dejaste."
 }
