@@ -2,8 +2,9 @@
   "textos": {
     "login_lema": "",
     "acerca_descripcion": "",
-    "prueba_play_explicacion": "Queremos publicar la app en Google Play para toda la escuela, y para eso Google pide que antes la prueben personas reales. Si te sumás, nos ayudás a lograrlo.\n\nAdemás, la instalás y la actualizás desde Play, como cualquier otra app, sin bajar el APK a mano y sin perder lo que tenés guardado.",
+    "prueba_play_explicacion": "Queremos publicar la app en Google Play para toda la escuela, y para eso Google pide que antes la prueben personas reales. Si te sumás, nos ayudás a lograrlo.\n\nAdemás, la instalás y la actualizás desde Play, como cualquier otra app, sin bajar el APK a mano. Tus archivos y tareas están en el servidor, así que no se pierden.",
+    "prueba_play_lista_detalle": "Abrí el enlace con la cuenta %1$s, aceptá la invitación e instalá la app desde ahí. Si Play no te deja, desinstalá primero el APK y probá de nuevo. Tus archivos y tareas están en el servidor y no se pierden: solo vas a tener que volver a entrar y elegir otra vez tus preferencias.",
     "prueba_play_invitacion_titulo": "Ayudanos a publicar la app en Google Play",
-    "prueba_play_invitacion_detalle": "Queremos publicar la app en Google Play para toda la escuela, y para eso Google pide que antes la prueben personas reales. Si te sumás, nos ayudás a lograrlo.\n\nA vos también te conviene: la instalás desde Play y se actualiza como cualquier otra app, sin bajar el APK a mano y sin perder lo que tenés guardado.\n\nDejá tu email y, cuando te sumen a la prueba, te aparece el enlace en la app."
+    "prueba_play_invitacion_detalle": "Queremos publicar la app en Google Play para toda la escuela, y para eso Google pide que antes la prueben personas reales. Si te sumás, nos ayudás a lograrlo.\n\nA vos también te conviene: la instalás desde Play y se actualiza como cualquier otra app, sin bajar el APK a mano. Tus archivos y tareas están en el servidor, así que no se pierden.\n\nDejá tu email y, cuando te sumen a la prueba, te aparece el enlace en la app."
   }
 }
