@@ -1,6 +1,6 @@
 {
-  "version": "0.22.0-alpha",
-  "versionCode": 1072,
-  "apk": "https://raw.githubusercontent.com/zhmyven/TecnicaDrive-Releases/main/apk/TecnicaDrive-0.22.0-alpha-1072.apk",
-  "notas": "Denunciar y pasar a Google Play.\n\nNovedades\n- Ahora podés denunciar un anuncio, una tarea, un archivo de la Biblioteca o a una persona. Lo revisa la administración de la escuela y la persona denunciada no se entera.\n- Podés anotarte para instalar la app desde Google Play y dejar de bajar el APK. Tocá tu inicial, arriba a la derecha, y elegí Probar desde Google Play.\n\nPara probar\n- Abrir un anuncio de otra persona, tocar Denunciar y mandarla.\n- Anotarse con el email de la cuenta de Google del teléfono. Cuando te sumen a la prueba, al abrir la app te aparece el enlace."
+  "version": "0.22.1-alpha",
+  "versionCode": 1073,
+  "apk": "https://raw.githubusercontent.com/zhmyven/TecnicaDrive-Releases/main/apk/TecnicaDrive-0.22.1-alpha-1073.apk",
+  "notas": "Qué se denuncia y por qué pasar a Google Play.\n\nNovedades\n- Denunciar ahora aclara que es para lo que se hace en la app. Cualquier problema de la escuela se habla con un preceptor o un directivo.\n- La invitación a Google Play cuenta por qué sumarte ayuda a publicar la app. Si ya la habías visto y no te anotaste, te aparece una vez más.\n\nPara probar\n- Abrir Denunciar en un anuncio y leer el aviso de arriba del formulario.\n- Abrir la app sin estar anotado en la prueba de Google Play: aparece la invitación una vez."
 }
