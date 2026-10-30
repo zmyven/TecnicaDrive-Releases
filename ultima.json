@@ -1,6 +1,6 @@
 {
-  "version": "0.21.0-alpha",
-  "versionCode": 1070,
-  "apk": "https://raw.githubusercontent.com/zhmyven/TecnicaDrive-Releases/main/apk/TecnicaDrive-0.21.0-alpha-1070.apk",
-  "notas": "La app, lista para Android 16.\n\nNovedades\n- La app se prepara para Android 16 y para las nuevas reglas de Google, para que se pueda seguir instalando y actualizando sin problemas.\n- Si una descarga o una subida dura más de 6 horas, ahora se corta sola sin cerrar la app.\n- La política de privacidad se abre desde Acerca de la app.\n\nPara probar\n- En un teléfono con Android 16: entrar, abrir una carpeta y volver atrás con el gesto o el botón.\n- Subir y bajar un archivo, y cambiar de app mientras termina."
+  "version": "0.22.0-alpha",
+  "versionCode": 1072,
+  "apk": "https://raw.githubusercontent.com/zhmyven/TecnicaDrive-Releases/main/apk/TecnicaDrive-0.22.0-alpha-1072.apk",
+  "notas": "Denunciar y pasar a Google Play.\n\nNovedades\n- Ahora podés denunciar un anuncio, una tarea, un archivo de la Biblioteca o a una persona. Lo revisa la administración de la escuela y la persona denunciada no se entera.\n- Podés anotarte para instalar la app desde Google Play y dejar de bajar el APK. Tocá tu inicial, arriba a la derecha, y elegí Probar desde Google Play.\n\nPara probar\n- Abrir un anuncio de otra persona, tocar Denunciar y mandarla.\n- Anotarse con el email de la cuenta de Google del teléfono. Cuando te sumen a la prueba, al abrir la app te aparece el enlace."
 }
